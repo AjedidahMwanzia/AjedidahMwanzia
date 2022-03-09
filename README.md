@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am a fullstack developer passionate about solving problems with code.
+
 
 <br>
 <div align="center">
@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block">
     <img align="center" alt="Samuel-Martins-figma" height="25" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-gimp" height="40" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-inkscape" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--     <img align="center" alt="Samuel-Martins-gimp" height="40" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-inkscape" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
     <img align="center" alt="Samuel-Martins-canva" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
