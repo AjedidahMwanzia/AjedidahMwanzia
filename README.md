@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AjedidahMwanzia.)
 
 
 
