@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Maryan23.)
+
+<h2>GitHub Stats</h2>
+<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=maryan23&count_private=true&show_icons=true&theme=cobalt">
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=maryan23&">
+</a><br>
 
 ### Languages and Frameworks:
 
