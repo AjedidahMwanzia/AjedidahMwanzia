@@ -38,7 +38,7 @@ I am currently studying Software development at Moringa School. I graduated with
 <div style="display: inline_block"><br>
     <img align="center" alt="AjedidahMwanzia-HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="AjedidahMwanzia-CSS" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="AjedidahMwanzia-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
     <!-- <img align="center" alt="Samuel-Martins-Ts" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Samuel-Martins-React" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -56,11 +56,11 @@ I am currently studying Software development at Moringa School. I graduated with
 ### Tools :
 
 <div style="display: inline_block">
-    <img align="center" alt="Samuel-Martins-figma" height="25" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="AjedidahMwanzia-figma" height="25" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--     <img align="center" alt="Samuel-Martins-gimp" height="40" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-inkscape" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-    <img align="center" alt="Samuel-Martins-canva" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="AjedidahMwanziacanva" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="AjedidahMwanzia-git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
 <br>
