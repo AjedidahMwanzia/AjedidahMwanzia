@@ -40,14 +40,7 @@ I am currently studying Software development at Moringa School. I graduated with
     <img align="center" alt="AjedidahMwanzia-CSS" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="AjedidahMwanzia-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-    <!-- <img align="center" alt="Samuel-Martins-Ts" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Samuel-Martins-React" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Samuel-Martins-Angular" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> -->
-<!--     <img align="center" alt="Samuel-Martins-Node" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <!-- <img align="center" alt="Samuel-Martins-MySQL" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
-<!--   "src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-PHP" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --> 
+   
 </div>
 
 <br>
