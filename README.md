@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">... I'm Ajedidah Mwanzia.
+# Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="5px">... I'm Ajedidah Mwanzia.
 
 <!--
 **thesmartcoder7/thesmartcoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
