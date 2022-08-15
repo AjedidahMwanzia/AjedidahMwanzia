@@ -49,11 +49,19 @@ I am currently studying Software development at Moringa School. I graduated with
 ### Tools :
 
 <div style="display: inline_block">
-    <img align="center" alt="AjedidahMwanzia-figma" height="25" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--     <img align="center" alt="Samuel-Martins-gimp" height="40" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-inkscape" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-    <img align="center" alt="AjedidahMwanziacanva" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="AjedidahMwanzia-git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<p>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/CSS-0077B5?&style=for-the-badge&logo=css3&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3179c7?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/Angular-c30130?style=for-the-badge&logo=angular" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue" style="margin: 0 5% 5% 0">&nbsp;
+ 
+</p>
 </div>
  
 <br>
