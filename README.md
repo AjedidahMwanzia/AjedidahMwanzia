@@ -28,10 +28,6 @@ I am currently studying Software development at Moringa School. I graduated with
   <img height="150rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjedidahMwanzia&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
-<br>
-
-
-
 
 ### Languages and Frameworks:
 
@@ -51,7 +47,6 @@ I am currently studying Software development at Moringa School. I graduated with
 </p>
 </div>
 
-<br>
 <br>
 
 ### Tools :
