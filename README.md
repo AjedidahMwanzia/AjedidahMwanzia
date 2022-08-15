@@ -35,19 +35,6 @@ I am currently studying Software development at Moringa School. I graduated with
 
 ### Languages and Frameworks:
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="AjedidahMwanzia-HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="AjedidahMwanzia-CSS" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="AjedidahMwanzia-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-   
-</div>
-
-<br>
-<br>
-
-### Tools :
-
 <div style="display: inline_block">
 <p>
 
@@ -63,6 +50,21 @@ I am currently studying Software development at Moringa School. I graduated with
  
 </p>
 </div>
+
+<br>
+<br>
+
+### Tools :
+
+<div style="display: inline_block">
+    <img src="https://img.shields.io/badge/figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+    <img src="https://img.shields.io/badge/canva-3868e8?style=for-the-badge&logo=canva&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+    <img src="https://img.shields.io/badge/git-f64d27?style=for-the-badge&logo=git&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+</div>
+ 
+<br>
+<br>
+
  
 <br>
 <br>
