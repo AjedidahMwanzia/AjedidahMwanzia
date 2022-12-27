@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am currently studying Software development at Moringa School. I graduated with a Bachelor's degree in Business Information Technology from The Technical University of Kenya  💃 and I can't wait to see what the future holds🦸‍.
+I am a Software development graduate from Moringa School. I graduated with a Bachelor's degree in Business Information Technology from The Technical University of Kenya  💃 and I can't wait to see what the future holds🦸‍.
 
 
 
